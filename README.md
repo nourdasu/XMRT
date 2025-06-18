@@ -4,7 +4,7 @@ Monero (XMR) Tracker
 ## What it does
  - Tracks the price of Monero (XMR-USDT) on tradeogre.
  - Outputs on terminal whether or not the price changed or stayed the same.
- - Saves everything to a log file.
+ - Saves everything to a log file. (Log file is automatically created)
 ## What it does not do
  - Free sex
  - Free sex
