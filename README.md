@@ -9,5 +9,10 @@ Monero (XMR) Tracker
  - Free sex
  - Free sex
  - Free sex
+## How to use?
+Compile it using gcc:
+`gcc xmr_tracker.c -o xmrt`
+or whichever compiler you wanna use.
+
 ## Why USDT?
 USDT is the closest thing to the US Dollar that cryptocurrency can offer.
